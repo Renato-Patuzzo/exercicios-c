@@ -1,1 +1,1 @@
-Algoritmo desenvolvido em C para cálculo de área e perímetro de um círculo.
+Algoritmo desenvolvido em C para cálculo de área e perímetro de um círculo!
